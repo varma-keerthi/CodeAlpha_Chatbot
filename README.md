@@ -1,2 +1,15 @@
-# CodeAlpha_Chatbot
- A simple Python chatbot that responds to basic user inputs like "hello", "how are you", and "bye".   It uses conditional statements and loops to simulate conversation.
+Basic Chatbot
+
+This Python chatbot responds to simple user inputs with predefined replies.
+
+## How to Run
+1. Run the script using:
+   python chatbot.py
+2. Type inputs like "hello", "how are you", "bye".
+3. The chatbot will reply accordingly.
+
+## Technologies Used
+- Python
+- If-elif statements
+- Loops
+- Functions
